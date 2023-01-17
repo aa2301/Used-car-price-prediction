@@ -1,1 +1,1 @@
-# Used-car-price-prediction
+In this project I have tried to build the model which can predict the best price for used vehicle. The model is been trained as per the market senarios. The model is capable of predicting the best resell that a user can on his/her car
